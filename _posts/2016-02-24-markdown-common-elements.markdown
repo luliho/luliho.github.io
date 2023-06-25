@@ -1,5 +1,5 @@
 ---
-title: "我能参加最强大脑不？"
+title: "我能参加最强大脑不"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
@@ -23,7 +23,7 @@ description: Markdown summary with different options
     </head>
    <body>
        <video loop="loop" controls="controls" poster="images\t3.jpg">
-	   <source src="assets/images/game1.mp4" type="video/mp4"></source></video>
+	   <source src="/assets/images/game1.mp4" type="video/mp4"></source></video>
     </body>
 </html>
 
