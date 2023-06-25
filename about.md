@@ -31,7 +31,7 @@ layout: page
 
 <h2>AI产业探索·AI for Games</h2>
 
-<p>【真格基金 | AI Gamejam 线下组三等奖】CPO·首席产品官：
+<p>【真格基金 | AI Gamejam 线下组三等奖】制作人：
 <br>-将大语言模型引入核心Gameplay流程，生成完整作品
 <br>-初步解决AI long term memory较弱问题</p>
 
