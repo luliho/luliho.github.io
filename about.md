@@ -74,15 +74,18 @@ layout: page
 
 <h2>技能加点·Skills</h2>
 
-<p>
--Unreal Engine
-<br->Unity
+html_code = """
+<p>-Unreal Engine
+<br>-Unity
 <br>-3ds Max
 <br>-Articy draft
 <br>-Pycharm
 <br>-Python
-<br>-Eleme
-</p>
+<br>-Eleme</p>
+"""
+
+print(html_code)
+
   
 <img src="/assets/images/skill.png" style="float: inline-start;">
 
