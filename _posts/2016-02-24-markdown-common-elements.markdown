@@ -172,23 +172,27 @@ Markdown can also contain images. I'll need to add something here sometime.
 
 ## Code
 
-A HTML Example:
+HMTL插入视频代码·A HTML Example:
 
 {% highlight html %}
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Just a test</h1>
-</body>
+<DOCTYPE! html>
+<html>
+    <head>
+	<title>xxx</title>
+	<meta charset="utf-8">
+    </head>
+   <body>
+       <video loop="loop" controls="controls" poster="images\xxx.jpg">
+	   <source src="/assets/images/xxx.mp4" autoplay="autoplay" type="video/mp4"></source></video>
+    </body>
 </html>
-{% endhighlight %}
 
-A CSS Example:
-
+<style>  
+video {  
+  max-width: 100%;  
+  height: auto;  
+}  
+</style>
 {% highlight css %}
 pre {
     padding: 10px;
