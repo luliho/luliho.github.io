@@ -1,7 +1,7 @@
 ---
-title: "Markdown Extra Components"
+title: "Thanks GHATGPT"
 layout: post
-date: 2016-02-24 22:48
+date: 2023-06-18 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
