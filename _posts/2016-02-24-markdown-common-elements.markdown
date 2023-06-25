@@ -1,12 +1,12 @@
 ---
-title: "Markdown Common Elements"
+title: "我是不是也能参加个最强大脑什么的"
 layout: post
-date: 2016-02-24 22:44
+date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- 我的游戏日常
+- 魔方找茬
 star: true
 category: blog
 author: johndoe
