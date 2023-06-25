@@ -31,12 +31,14 @@ layout: page
 
 <h2>AI产业探索·AI for Games</h2>
 
-<p>【真格基金 | AI Gamejam 线下组三等奖】制作人：
+<p>【真格基金 | AI Gamejam】制作人：
+<br>-获三等奖
 <br>-将大语言模型引入核心Gameplay流程，生成完整作品
 <br>-初步解决AI long term memory较弱问题</p>
 
-<p>【机核 GCORES | AI Gamejam 参展作品】制作人：
-<br>-AI在线性体验流程中，大幅提升对人物认知的准确度
+<p>【机核GCORES | Booom创作】制作人：
+<br>-获奖作品，线下参展
+<br>-在线性体验流程中，大幅提升AI对人物认知的准确度
 <br>-AI NPC文本投喂逻辑创新</p>
 
 <p>【AI生态产品模型设计】CPO·首席产品官：
