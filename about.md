@@ -74,7 +74,7 @@ layout: page
 
 <h2>技能加点·Skills</h2>
 
-html_code = """
+
 <p>-Unreal Engine
 <br>-Unity
 <br>-3ds Max
@@ -82,9 +82,7 @@ html_code = """
 <br>-Pycharm
 <br>-Python
 <br>-Eleme</p>
-"""
 
-print(html_code)
 
   
 <img src="/assets/images/skill.png" style="float: inline-start;">
