@@ -1,5 +1,5 @@
 ---
-title: "我能参加最强大脑不？？"
+title: "我这不得参加个最强大脑"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
@@ -13,40 +13,16 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-## 魔方找茬
+## 沉迷于魔方找茬，并且有点膨胀
 
-<DOCTYPE! html>
-<html>
-    <head>
-	<title>光速找茬</title>
-	<meta charset="utf-8">
-    </head>
-   <body>
-       <video loop="loop" controls="controls" poster="images\t3.jpg">
-	   <source src="/assets/images/1zhaocha.mp4" autoplay="autoplay" type="video/mp4"></source></video>
-    </body>
-</html>
+<PS：手机屏太小了，平行眼的时候有点不准>
 
-<style>  
-video {  
-  max-width: 100%;  
-  height: auto;  
-}  
-</style>
-
-————————————————
 <video src="/assets/images/1zhaocha.mp4" height="auto" autoplay="autoplay" loop="loop" controls="controls" poster="images\t3.jpg"></video> 
 
+---
+
 版权声明：本文为「吕离火·luliho」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明，若内容被篡用而引起的一切纠纷，原作者概不负责。
-
-
-This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
-
-And that's how to do it.
-
-{% highlight html %}
-This note **demonstrates** some of what [Markdown][some/link] is *capable of doing*.
-{% endhighlight %}
+Creative Commons Attribution 4.0 International (CC-BY-4.0)
 
 ---
 
