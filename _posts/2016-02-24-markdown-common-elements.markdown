@@ -1,5 +1,5 @@
 ---
-title: "我这不得参加个最强大脑"
+title: "我这不得参加个最强大脑？"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
@@ -16,6 +16,27 @@ description: Markdown summary with different options
 ## 沉迷于魔方找茬，并且有点膨胀
 
 <手机屏太小了，平行眼的时候点不准>
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    /* 使用 CSS 来设置视频的样式 */
+    #video-container {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <div id="video-container">
+    <!-- /assets/images/1zhaocha.mp4 -->
+    <video controls>
+      <source src="/assets/images/1zhaocha.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</body>
+</html>
 
 <video src="/assets/images/1zhaocha.mp4" height="auto" autoplay="autoplay" loop="loop" controls="controls" poster="images\t3.jpg"></video> 
 
