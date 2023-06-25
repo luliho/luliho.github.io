@@ -1,5 +1,5 @@
 ---
-title: "我这不得参加个最强大脑？"
+title: "我这能参加最强大脑不"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
@@ -13,8 +13,7 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-沉迷于魔方找茬，并且有点膨胀
-（PS：点歪是因为手机屏太小了，平行眼的时候点不准）
+沉迷于魔方找茬，并且有点膨胀，手机屏太小了，平行眼的时候点不准
 
 <!DOCTYPE html>
 <html>
@@ -52,6 +51,6 @@ description: Markdown summary with different options
 ---
 
 版权声明：本文为「吕离火·luliho」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明，若内容被篡用而引起的一切纠纷，原作者概不负责。
-Creative Commons Attribution 4.0 International (CC-BY-4.0)
+*Creative Commons Attribution 4.0 International (CC-BY-4.0)
 
 
