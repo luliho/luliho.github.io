@@ -50,7 +50,7 @@ description: Markdown summary with different options
 
 ---
 
-版权声明：本文为「吕离火·luliho」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明，若内容被篡用而引起的一切纠纷，原作者概不负责。
-*Creative Commons Attribution 4.0 International (CC-BY-4.0)
+版权声明：本文为「吕离火·luliho」的原创文章，遵循CC 4.0 BY-SA版权协议。
+<br>*Creative Commons Attribution 4.0 International (CC-BY-4.0)
 
 
