@@ -1,5 +1,5 @@
 ---
-title: "我这不得参加个最强大脑？"
+title: "我这不得参加个最强大脑"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
@@ -16,14 +16,26 @@ description: Markdown summary with different options
 ## 沉迷于魔方找茬，并且有点膨胀
 
 <手机屏太小了，平行眼的时候点不准>
+
 <!DOCTYPE html>
 <html>
 <head>
   <style>
-    /* 使用 CSS 来设置视频的样式 */
+    /* 使用 CSS 设置视频容器的样式 */
     #video-container {
-      max-width: 100%;
-      height: auto;
+      position: relative;
+      padding-bottom: 56.25%; /* 16:9 宽高比视频的比例 */
+      height: 0;
+      overflow: hidden;
+    }
+
+    /* 使用 CSS 设置视频样式 */
+    #video-container video {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
     }
   </style>
 </head>
