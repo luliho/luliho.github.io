@@ -6,7 +6,7 @@ layout: page
 <img src="/assets/images/profile.jpg" style="float: inline-start;"> 
 <img src="/assets/images/tencent.png" style="float: inline-start;">
 <br>
-<h2>吕离火·LuLiho
+<h2>吕离火6·LuLiho
 <br>首席产品官·CPO</h2> 
 <p>【AI带路党先锋】致力于用AI Agent颠覆世界
 <br>【胎教是盗版FC游戏】小霸王其乐无穷
