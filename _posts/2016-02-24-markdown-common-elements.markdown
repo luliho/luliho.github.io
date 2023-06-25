@@ -40,7 +40,7 @@ description: Markdown summary with different options
 <body>
   <div id="video-container">
     <!-- /assets/images/1zhaocha.mp4 -->
-    <video controls>
+    <video controls autoplay>
       <source src="/assets/images/1zhaocha.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
