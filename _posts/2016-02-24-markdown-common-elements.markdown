@@ -35,7 +35,7 @@ video {
 </style>
 
 ————————————————
-<video src="/assets/images/game1.mp4" height="150px" autoplay="autoplay" loop="loop" controls="controls" poster="images\t3.jpg"></video> 
+<video src="/assets/images/game1.mp4" height="auto" autoplay="autoplay" loop="loop" controls="controls" poster="images\t3.jpg"></video> 
 
 版权声明：本文为CSDN博主「朝去夜来」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
 原文链接：https://blog.csdn.net/wenqi1/article/details/119847051
