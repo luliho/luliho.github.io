@@ -10,8 +10,7 @@ layout: page
 
 <h2>吕离火·LuLiho
 <br>首席产品官·CPO
-<br>和平精英核心策划
-<br>独立游戏制作人</h2> 
+<br>游戏制作人·Creative Director</h2> 
 
 <p>【AI带路党先锋】致力于用AI Agent颠覆世界
 <br>【胎教是盗版FC游戏】小霸王其乐无穷
@@ -36,7 +35,7 @@ layout: page
 <br>-将大语言模型引入核心Gameplay流程，生成完整作品
 <br>-初步解决AI long term memory较弱问题</p>
 
-<p>【机核 GCORES | AI Gamejam 线下参展作品】游戏制作人：
+<p>【机核 GCORES | AI Gamejam 参展作品】制作人：
 <br>-AI在线性体验流程中，大幅提升对人物认知的准确度
 <br>-AI NPC文本投喂逻辑创新</p>
 
@@ -47,7 +46,7 @@ layout: page
 
 <br> 
 
-<h2>腾讯五年历险记·Lost In Tencent</h2>
+<h2>腾讯五年攻略·Lost In Tencent</h2>
 
 <p>【腾讯光子 | 和平精英】核心版本策划：
 <br>-构建版本玩法内容投放逻辑并落地
@@ -71,7 +70,6 @@ layout: page
 <br>-构架世界观
 <br>-跨国协作对接海外团队</p>
 
-
 <br> 
 
 <h2>技能加点·Skills</h2>
@@ -85,8 +83,6 @@ layout: page
 <br>-Eleme</p>
   
 <img src="/assets/images/skill.png" style="float: inline-start;">
-<br>
-
 
 <br> 
 
