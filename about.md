@@ -7,13 +7,15 @@ layout: page
 <img src="/assets/images/tencent.png" style="float: inline-start;">
 
 
-<h2>吕离火6·LuLiho
+<h2>吕离火·LuLiho
 <br>首席产品官·CPO</h2> 
 
 <p>【AI带路党先锋】致力于用AI Agent颠覆世界
 <br>【胎教是盗版FC游戏】小霸王其乐无穷
 <br>【零成本管理过600人团队（确信）】在一款MMORPG游戏里指挥工会600人打下驻地，没花一分钱
 <br>【天下万事皆是用户体验】用户体验原理可解决一切问题，曾用电影flow原理解决了数值策划一年未解决的载具负体验问题</p>
+
+<br> 
 
 <h2>一些浮云·Awards</h2>
 
@@ -22,6 +24,8 @@ layout: page
 <br>【和平精英】：金摇杆等</p>
 
 <img src="/assets/images/jiang.png" style="float: inline-start;">
+
+<br> 
 
 <h2>AI产业探索·AI for Games</h2>
 
@@ -37,6 +41,9 @@ layout: page
 <br>-正在申请相关专利</p>
 
 <img src="/assets/images/zhenge.jpg" style="float: inline-start;">
+
+
+<br> 
 
 <h2>腾讯五年计划·Lost In Tencent</h2>
 
@@ -62,6 +69,9 @@ layout: page
 <br>-构架世界观
 <br>-跨国协作对接海外团队</p>
 
+
+<br> 
+
 <h2>技能加点·Skills</h2>
 
 <p>-Unreal Engine
@@ -74,6 +84,9 @@ layout: page
   
 <img src="/assets/images/skill.png" style="float: inline-start;">
 <br>
+
+
+<br> 
 
 <h2>联系我·Contact Me</h2>
 
