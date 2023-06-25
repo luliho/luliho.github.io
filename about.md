@@ -43,10 +43,9 @@ layout: page
 
 <img src="/assets/images/zhenge.jpg" style="float: inline-start;">
 
-
 <br> 
 
-<h2>腾讯五年计划·Lost In Tencent</h2>
+<h2>腾讯五年历险记·Lost In Tencent</h2>
 
 <p>【腾讯光子 | 和平精英】核心版本策划：
 <br>-构建版本玩法内容投放逻辑并落地
