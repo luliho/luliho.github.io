@@ -8,13 +8,13 @@ layout: page
 <br>
 <h2>吕离火·LuLiho
 <br>首席产品官·CPO</h2> 
-
+<br>
 <p>【AI带路党先锋】致力于用AI Agent颠覆世界
 <br>【胎教是盗版FC游戏】小霸王其乐无穷
 <br>【零成本管理过600人团队（确信）】在一款MMORPG游戏里指挥工会600人打下驻地，没花一分钱
 <br>【天下万事皆是用户体验】用户体验原理可解决一切问题，曾用电影flow原理解决了数值策划一年未解决的载具负体验问题
-<br>【任吹 旷吹】任世宰 旷天一，旷野之息速通26分钟（梦里）</p>
-
+</p>
+<br>
 <h2>一些浮云·Awards</h2>
 <p>Tencent：TIMI STAR★天美榜样力量奖 
 <br>【魁拔】系列：华表奖、金鸡奖等
@@ -31,7 +31,7 @@ layout: page
 <p>【AI生态产品模型设计】CPO·首席产品官：
 <br>-正在申请相关专利</p>
 <img src="/assets/images/zhenge.jpg" style="float: inline-start;">
-
+<br>
 <h2>腾讯五年计划·Lost In Tencent</h2>
 <p>【腾讯光子 | 和平精英】核心版本策划：
 <br>-构建版本玩法内容投放逻辑并落地
@@ -51,7 +51,7 @@ layout: page
 <p>【腾讯天美 | 侍魂·剑心物语】世界观策划：
 <br>-构架世界观
 <br>-跨国协作对接海外团队</p>
-
+<br>
 <h2>技能加点·Skills</h2>
 <p>-Unreal Engine
 <br->Unity
@@ -61,6 +61,6 @@ layout: page
 <br>-Python
 <br>-Eleme</p>
 <img src="/assets/images/skill.png" style="float: inline-start;">
-
+<br>
 <h2>联系我·Contact Me</h2>
 <img src="/assets/images/wei2.jpg" style="float: inline-start;">
