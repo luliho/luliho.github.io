@@ -1,5 +1,5 @@
 ---
-title: "我这不得参加个最强大脑"
+title: "我这不得参加个最强大脑？"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
@@ -13,9 +13,8 @@ author: johndoe
 description: Markdown summary with different options
 ---
 
-## 沉迷于魔方找茬，并且有点膨胀
-
-<手机屏太小了，平行眼的时候点不准>
+沉迷于魔方找茬，并且有点膨胀
+（PS：点歪是因为手机屏太小了，平行眼的时候点不准）
 
 <!DOCTYPE html>
 <html>
@@ -49,8 +48,6 @@ description: Markdown summary with different options
   </div>
 </body>
 </html>
-
-<video src="/assets/images/1zhaocha.mp4" height="auto" autoplay="autoplay" loop="loop" controls="controls" poster="images\t3.jpg"></video> 
 
 ---
 
