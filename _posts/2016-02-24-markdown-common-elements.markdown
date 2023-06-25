@@ -1,5 +1,5 @@
 ---
-title: "我是不是也能参加个最强大脑什么的"
+title: "我能参加最强大脑不"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
@@ -14,6 +14,22 @@ description: Markdown summary with different options
 ---
 
 ## Basic formatting
+
+<DOCTYPE! html>
+<html>
+    <head>
+	<title>光速找茬</title>
+	<meta charset="utf-8">
+    </head>
+   <body>
+       <video loop="loop" controls="controls" poster="images\t3.jpg">
+	   <source src="assets/images/game1.mp4" type="video/mp4"></source></video>
+    </body>
+</html>
+
+————————————————
+版权声明：本文为CSDN博主「朝去夜来」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+原文链接：https://blog.csdn.net/wenqi1/article/details/119847051
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.
 
