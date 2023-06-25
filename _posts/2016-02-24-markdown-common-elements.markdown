@@ -172,8 +172,6 @@ Markdown can also contain images. I'll need to add something here sometime.
 
 ## Code
 
-
-
 A JS Example:
 
 {% highlight js %}
