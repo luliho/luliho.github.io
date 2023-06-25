@@ -1,5 +1,5 @@
 ---
-title: "我能参加最强大脑不？"
+title: "我能参加最强大脑不？？"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
