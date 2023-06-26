@@ -1,19 +1,19 @@
 ---
-title: "我这能参加最强大脑不"
+title: "超速找茬-我的小特技"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- 我的游戏日常
-- 魔方找茬
+- 游戏日常
+- 找茬
 star: true
 category: blog
 author: johndoe
 description: Markdown summary with different options
 ---
 
-沉迷于魔方找茬，并且有点膨胀，手机屏太小了，平行眼的时候点不准
+沉迷于魔方找茬，点歪因为屏幕太小了点不准，不是帕金森（doge）
 
 <!DOCTYPE html>
 <html>
