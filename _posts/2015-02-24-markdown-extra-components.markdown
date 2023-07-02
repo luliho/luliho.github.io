@@ -1,16 +1,18 @@
 ---
-title: "用数学证明产品逻辑"
+title: "如何用数学证明产品逻辑"
 layout: post
 date: 2022-06-18 22:48
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - 产品经理的黄金精神
+- 
 - 数学
 category: blog
-author: LuLiho
-description:Markdown summary with different options
+author: jamesfoster
+description: Markdown summary with different options
 ---
+
 
 ## 问题·Problem:
 很多场景，产品逻辑有效性无法自证
