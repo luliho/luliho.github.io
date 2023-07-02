@@ -7,7 +7,7 @@ tag:
 - 产品经理的黄金精神
 - 数学
 category: blog
-author: LuLiho
+author: jamesfoster
 description:用数学证明产品逻辑
 ---
 
