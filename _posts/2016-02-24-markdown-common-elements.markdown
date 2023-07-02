@@ -1,19 +1,19 @@
 ---
-title: "我的一点特殊技能"
+title: "沉迷于找茬游戏"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- 游戏日常
-- 超快找茬
+- game
+- Find the Difference
 star: true
 category: blog
 author: johndoe
 description: Markdown summary with different options
 ---
 
-魔方找茬，屏幕太小了点不准
+平行眼点不准
 
 <!DOCTYPE html>
 <html>
