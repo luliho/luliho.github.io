@@ -6,10 +6,11 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - 产品经理的黄金精神
+- 
 - 数学
 category: blog
-author: LuLiho
-description:Markdown summary with different options
+author: jamesfoster
+description: Markdown summary with different options
 ---
 
 ## 问题·Problem:
