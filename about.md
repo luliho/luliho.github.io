@@ -91,6 +91,6 @@ layout: page
 
 <br> 
 
-<h2>联系我·Contact Me</h2>
+<h2>联系我·My WeChat</h2>
 
 <img src="/assets/images/wei2.jpg" style="float: inline-start;">
