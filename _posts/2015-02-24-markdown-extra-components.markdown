@@ -6,21 +6,20 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - 产品经理的黄金精神
-- 
 - 数学
 category: blog
-author: jamesfoster
-description: Markdown summary with different options
+author: LuLiho
+description:Markdown summary with different options
 ---
 
 ## 问题·Problem:
-很多场景，尽管推演恰当，产品逻辑却无法有效论证
+很多场景，产品逻辑有效性无法自证
 
 ## 拆解·Dissect Problem
 <p>已知被宣讲人的疑问如下：
-<br>∵推演结论反常识
-<br>&emsp;该推导过程=s，s不合理
-<br>∴该推演结论错误</p>
+<br>∵s=结论，该结论反直觉
+<br>&emsp;x=推导过程，该过程无有效数据支撑
+<br>∴s错误</p>
 
 <p>问：S如何自证逻辑？</p>
 
@@ -45,21 +44,26 @@ description: Markdown summary with different options
 <br>&emsp;（方案浅析：不建议！逻辑同问题，假设无数据和事实支撑）
 
 ## 船新版本·New Solution
-<p>设：（推演结论反常识）为 （+∞＜0）
-<br>注：正无穷大，但小于0，该结论反常识。
-<br>∴如果我们证得（+∞<0），（推演结论反常识）的产品逻辑的正确性！</p>
+<p>设：
+<br>s=（推演结论反直觉）为（+∞＜0）
+<br>注：
+<br>正无穷大，但小于0，该结论反直觉。
+<br>∴如果我们证得（+∞<0），也即证得s=（推演结论反直觉）的产品的可行性！</p>
 
 <p>解：
-<br>设:
+<br>设：
 <br>W=+∞=1+2+3+4+5...
 <br>M=1-2+3-4+5...
-<br>∴W-M=0+4+0+8+0+12=4(1+2+3+4...）=4W
-<br>∴W=-M/3</p>
+<br>∴
+<br>W-M=0+4+0+8+0+12=4(1+2+3+4...）=4W
+<br>∴
+<br>W=-M/3</p>
 
 <p>M错位相加:
 <br>M=1-2+3-4...
 <br>M=&emsp;1-2+3-4...
-<br>∴2M=1-1+1-1...</p>
+<br>∴
+<br>2M=1-1+1-1...</p>
 
 <p>2M再次错位相加抵消
 <br>2M=1-1+1-1...
@@ -67,24 +71,35 @@ description: Markdown summary with different options
 <br>2M+2M=1
 <br>M=1/4</p>
 
-<p>∵W=-M/3
-<br>∴W=-1/4 ÷ 3=-1/12
+<p>∵
+<br>W=-M/3
+<br>∴
+<br>W=-1/4 ÷ 3=-1/12
 <br>证得+∞=-1/12<O
 <br>即，即便（推演结论反常识）的产品设计，其产品逻辑依然有概率是正确的</p>
 
-<p>到此为止，我们借用拉马努金的逻辑，证明了看似不符合常理论断，却可能是事实。此时被宣讲人或对你的逻辑推演表示赞同，但这个看似精彩的推演，其实是错误的。</p>
+<p>check：
+<br>到此为止，借用拉马努金的逻辑，看似证明了看似不合常理论断的可行性。
+<br>但这个看似精彩的推演，其实是错误的</p>
 
 <img src="/assets/images/nizhuan01.jpeg" style="float: inline-start;">
 
-<p>∵拉马努金完全忽略了省略号里项数的动态量变化(W=+∞=1+2+3+4+5...) 
-<br>我们也在计算过程中，也把省略号内的无穷数字当成了静态项数来处理
-<br>∴错位相加等计算中，都得到了错误的结果
+<p>∵
+ <br>拉马努金忽略了省略号里项数的动态量变化(W=+∞=1+2+3+4+5...) 
+<br>上述计算中，省略号内的无穷数字错以静态项数来处理
+<br>∴
+<br>上述所有错位计算中，结果全部错误
 <br>(M=1-2+3-4...
 <br>M=&emsp;1-2+3-4...
-<br>∴2M=1-1+1-1...）
-∴以上看似精彩纷呈的推演，结论是完全错误的。
-<br>：∴证得：在产品逻辑推演中，拥有精彩的验证过程，和貌似严谨的数据推导，与得到一款满足预期的产品之间，无正相关。
+<br>∴
+<br>2M=1-1+1-1...
+<br>等）
+∴
+<br>以上看似精彩纷呈的推演，结论是完全错误的。
+<br>证得：在产品逻辑推演中，拥有精彩的验证过程（X），以及貌似严谨的数据推导，与得到一款推演结论（S）符合预期的产品，无正相关。
 <br>解题完毕</p>
 
-<img src="/assets/images/nizhuan02.png" style="float: inline-start;">
+---
 
+版权声明：本文为「吕离火·luliho」的原创文章，遵循CC 4.0 BY-SA版权协议。
+<br>*Creative Commons Attribution 4.0 International (CC-BY-4.0)
