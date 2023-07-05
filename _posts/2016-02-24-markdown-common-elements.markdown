@@ -1,5 +1,5 @@
 ---
-title: "沉迷于找茬游戏"
+title: "沉迷于找茬"
 layout: post
 date: 2023-06-24 22:06
 image: /assets/images/markdown.jpg
@@ -12,8 +12,6 @@ category: blog
 author: johndoe
 description: Markdown summary with different options
 ---
-
-平行眼点不准
 
 <!DOCTYPE html>
 <html>
