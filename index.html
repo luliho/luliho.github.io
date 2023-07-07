@@ -9,3 +9,46 @@ title: Home
         <button id="chat-send">发送</button>
     </div>
 </div>
+
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+<script src="https://unpkg.com/@openai/api"></script>
+<script>
+    const chatContainer = document.getElementById('chat-container');
+    const chatMessages = document.getElementById('chat-messages');
+    const chatInput = document.getElementById('chat-input');
+    const chatSendButton = document.getElementById('chat-send');
+
+    const chatGpt = new OpenAI('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');
+
+    chatSendButton.addEventListener('click', sendMessage);
+
+    function sendMessage() {
+        const message = chatInput.value.trim();
+        appendMessage('user', message);
+
+        chatGpt.complete({
+            model: 'gpt-3.5-turbo',
+            messages: [
+                { role: 'system', content: 'You are a helpful assistant.' },
+                { role: 'user', content: message }
+            ]
+        })
+        .then(response => {
+            const reply = response.choices[0].message.content;
+            appendMessage('chatbot', reply);
+        })
+        .catch(error => {
+            console.error('Error:', error);
+        });
+
+        chatInput.value = '';
+    }
+
+    function appendMessage(sender, message) {
+        const messageElement = document.createElement('div');
+        messageElement.className = sender === 'user' ? 'user-message' : 'chatbot-message';
+        messageElement.textContent = message;
+        chatMessages.appendChild(messageElement);
+        chatContainer.scrollTop = chatContainer.scrollHeight;
+    }
+</script>
