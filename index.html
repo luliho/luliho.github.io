@@ -1,7 +1,22 @@
----
-layout: page
-title: Home
----
+
+<style>
+    .message-container {
+        margin-bottom: 10px;
+    }
+
+    .user-message {
+        background-color: #eef5db;
+        padding: 8px;
+        border-radius: 5px;
+    }
+
+    .chatbot-message {
+        background-color: #f4f4f4;
+        padding: 8px;
+        border-radius: 5px;
+    }
+</style>
+
 <div id="chat-container">
     <div id="chat-messages"></div>
     <div id="chat-input-container">
@@ -57,21 +72,3 @@ title: Home
         chatContainer.scrollTop = chatContainer.scrollHeight;
     }
 </script>
-
-<style>
-    .message-container {
-        margin-bottom: 10px;
-    }
-
-    .user-message {
-        background-color: #eef5db;
-        padding: 8px;
-        border-radius: 5px;
-    }
-
-    .chatbot-message {
-        background-color: #f4f4f4;
-        padding: 8px;
-        border-radius: 5px;
-    }
-</style>
