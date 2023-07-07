@@ -5,7 +5,8 @@ title: Projects
 <section class="list">
 {% for post in site.posts %}
 {% if post.projects %}
-    
+ <div class="item {% if post.star %}star{% endif %}">
+     
 <!DOCTYPE html>
 <html lang="en"></html>
 
@@ -41,7 +42,8 @@ title: Projects
 </body>
 
 </html>
-
+     
+</div>
 {% endif %}
 {% endfor %}
 </section>
