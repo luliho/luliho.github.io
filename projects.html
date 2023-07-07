@@ -3,7 +3,9 @@ layout: page
 title: Projects
 ---
 <section class="list">
+{% for post in site.posts %}
 {% if post.projects %}
+    
 <!DOCTYPE html>
 <html lang="en"></html>
 
@@ -39,5 +41,7 @@ title: Projects
 </body>
 
 </html>
+
+{% endif %}
 {% endfor %}
 </section>
