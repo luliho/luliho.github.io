@@ -2,33 +2,33 @@
 layout: page
 title: Projects
 ---
-<section class="list">
-{% for post in site.posts %}
-{% if post.projects %}
- <div class="item {% if post.star %}star{% endif %}">
-     
+
 <!DOCTYPE html>
-<html lang="en"></html>
-
+<html lang="en">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=0.7, maximum-scale=1.0, user-scalable=0" charset="UTF-8">
-    <title>Catch That Cat!</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
     <script src="phaser.min.js"></script>
-    <script src="catch-the-cat.js"></script>
-    <style>
-        #catch-the-cat {
-            display: flex;
-            justify-content: center;
-        }
-    </style>
 </head>
-
-
 <body>
-    <div class="container">
-        <div id="catch-the-cat"></div>
-        <script>
+    <section class="list">
+        {% for post in site.posts %}
+            {% if post.projects %}
+                <div class="item {% if post.star %}star{% endif %}">
+                    <h3>{{ post.title }}</h3>
+                    <div id="catch-the-cat"></div>
+                </div>
+            {% endif %}
+        {% endfor %}
+    </section>
+
+    <script src="catch-the-cat.js"></script>
+    <script>
+        window.addEventListener('load', function() {
+            // 在页面完全加载后实例化 Phaser 小游戏
             window.game = new CatchTheCatGame({
+                // 游戏的配置选项
                 w: 11,
                 h: 11,
                 r: 20,
@@ -37,13 +37,7 @@ title: Projects
                 statusBarAlign: 'center',
                 credit: 'Your name...'
             });
-        </script>
-    </div>
+        });
+    </script>
 </body>
-
 </html>
-     
-</div>
-{% endif %}
-{% endfor %}
-</section>
