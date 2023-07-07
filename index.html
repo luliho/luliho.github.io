@@ -1,74 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
 
-<style>
-    .message-container {
-        margin-bottom: 10px;
-    }
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChatGPT Demo</title>
+    <style>
+        .message-container {
+            margin-bottom: 10px;
+        }
 
-    .user-message {
-        background-color: #eef5db;
-        padding: 8px;
-        border-radius: 5px;
-    }
+        .user-message {
+            background-color: #eef5db;
+            padding: 8px;
+            border-radius: 5px;
+        }
 
-    .chatbot-message {
-        background-color: #f4f4f4;
-        padding: 8px;
-        border-radius: 5px;
-    }
-</style>
+        .chatbot-message {
+            background-color: #f4f4f4;
+            padding: 8px;
+            border-radius: 5px;
+        }
+    </style>
+</head>
 
-<div id="chat-container">
-    <div id="chat-messages"></div>
-    <div id="chat-input-container">
-        <input type="text" id="chat-input" placeholder="输入消息...">
-        <button id="chat-send">发送</button>
+<body>
+    <div id="chat-container">
+        <div id="chat-messages"></div>
+        <div id="chat-input-container">
+            <input type="text" id="chat-input" placeholder="输入消息...">
+            <button id="chat-send">发送</button>
+        </div>
     </div>
-</div>
 
-<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
-<script src="https://unpkg.com/@openai/api"></script>
-<script>
-    const chatContainer = document.getElementById('chat-container');
-    const chatMessages = document.getElementById('chat-messages');
-    const chatInput = document.getElementById('chat-input');
-    const chatSendButton = document.getElementById('chat-send');
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+    <script src="https://unpkg.com/@openai/api"></script>
+    <script>
+        const chatContainer = document.getElementById('chat-container');
+        const chatMessages = document.getElementById('chat-messages');
+        const chatInput = document.getElementById('chat-input');
+        const chatSendButton = document.getElementById('chat-send');
 
-    const chatGpt = new OpenAI('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');
+        const chatGpt = new OpenAI('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');
 
-    chatSendButton.addEventListener('click', sendMessage);
+        chatSendButton.addEventListener('click', sendMessage);
 
-    function sendMessage() {
-        const message = chatInput.value.trim();
-        appendMessage('user', message);
+        function sendMessage() {
+            const message = chatInput.value.trim();
+            appendMessage('user', message);
 
-        chatGpt.complete({
-            model: 'gpt-3.5-turbo',
-            messages: [
-                { role: 'system', content: 'You are a helpful assistant.' },
-                { role: 'user', content: message }
-            ]
-        })
-        .then(response => {
-            const reply = response.choices[0].message.content;
-            appendMessage('chatbot', reply);
-        })
-        .catch(error => {
-            console.error('Error:', error);
-        });
+            chatGpt.complete({
+                model: 'gpt-3.5-turbo',
+                messages: [
+                    { role: 'system', content: 'You are a helpful assistant.' },
+                    { role: 'user', content: message }
+                ]
+            })
+                .then(response => {
+                    const reply = response.data.choices[0].message.content;
+                    appendMessage('chatbot', reply);
+                })
+                .catch(error => {
+                    console.error('Error:', error);
+                });
 
-        chatInput.value = '';
-    }
+            chatInput.value = '';
+        }
 
-    function appendMessage(sender, message) {
-        const messageContainer = document.createElement('div');
-        messageContainer.className = 'message-container';
+        function appendMessage(sender, message) {
+            const messageContainer = document.createElement('div');
+            messageContainer.className = 'message-container';
 
-        const messageElement = document.createElement('div');
-        messageElement.className = sender === 'user' ? 'user-message' : 'chatbot-message';
-        messageElement.textContent = message;
+            const messageElement = document.createElement('div');
+            messageElement.className = sender === 'user' ? 'user-message' : 'chatbot-message';
+            messageElement.textContent = message;
 
-        messageContainer.appendChild(messageElement);
-        chatMessages.appendChild(messageContainer);
-        chatContainer.scrollTop = chatContainer.scrollHeight;
-    }
-</script>
+            messageContainer.appendChild(messageElement);
+            chatMessages.appendChild(messageContainer);
+            chatContainer.scrollTop = chatContainer.scrollHeight;
+        }
+    </script>
+</body>
+
+</html>
