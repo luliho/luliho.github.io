@@ -46,12 +46,12 @@ authors:
     external-image: false
     picture: assets/images/profile.jpg
     twitter: LuLiho
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+  xxxjamesfoster:
+    xxxname: James Foster
+    xxxbio: A Man who develops software with coffee
+    xxxexternal-image: false
+    xxxpicture: assets/images/james.jpg
+    xxxtwitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
