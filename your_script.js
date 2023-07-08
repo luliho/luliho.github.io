@@ -1,5 +1,5 @@
 const configuration = new openai.Configuration({
-  apiKey: "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", // 需要替换为您的 OpenAI API 密钥
+  apiKey: " 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 ", // 需要替换为您的 OpenAI API 密钥
 });
 
 const openai = new openai.OpenAIApi(configuration);
