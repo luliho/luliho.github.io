@@ -11,7 +11,12 @@ title: Home
 <body>
   <!-- 在这里添加您现有的页面布局 -->
 
-
+<!-- 在聊天记录上方添加一个输入框和发送按钮 -->
+  <div>
+    <input type="text" id="user-input" placeholder="请输入消息" />
+    <button onclick="sendMessage()">发送</button>
+  </div>
+  
   <div id="chat-container" style="border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll;">
     <!-- 在这里添加 ChatGPT 对话的记录 -->
   </div>
