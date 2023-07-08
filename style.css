@@ -1000,7 +1000,15 @@ margin-bottom: 10px;
   width: 100%;
 }
 /* 8. blog */
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+}
+
 .post {
+	font-family: 'Open Sans', sans-serif;
   background: #fff none repeat scroll 0 0;
   margin: 0 0 30px;
   padding: 20px;
@@ -1011,6 +1019,7 @@ margin-bottom: 10px;
   font-weight: 500;
   margin: 10px 0 15px;
 }
+         font-family: 'Open Sans', sans-serif;
 .post-title a:hover{color:#999}
 .post-thumbnail {
   margin: 0 0 25px;
