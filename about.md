@@ -1,18 +1,6 @@
 ---
 title: About
 layout: page
-
-  <!-- All CSS Files Here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/et-line-fonts.css">
-    <link rel="stylesheet" href="css/ionicons.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/meanmenu.css">
-    <link rel="stylesheet" href="css/global.css">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="css/responsive.css">
-
-
 ---
 
 <img src="/assets/images/wei2.jpg" style="float: inline-start;">
