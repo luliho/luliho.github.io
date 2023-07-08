@@ -1,10 +1,10 @@
 const configuration = new openai.Configuration({
-  apiKey: "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",
+  apiKey: "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", // 需要替换为您的 OpenAI API 密钥
 });
 
 const openai = new openai.OpenAIApi(configuration);
 
-async function generateChat() {
+async function generateChat(userInput) { // 添加了一个参数 userInput，用于传递用户输入的消息
   try {
     const response = await openai.createChatCompletion({
       model: "gpt-3.5-turbo",
@@ -21,6 +21,10 @@ async function generateChat() {
           role: "assistant",
           content: "您好，很高兴能够与您交流。我是吕离火·LuLiho，是一名具有十年产品策划经验的资深CPO兼游戏制作人，目前专注于和平精英的核心游戏策划工作。\n\n如果您对产品研发、AI技术、游戏制作人等方面的问题感兴趣，我将非常乐意与您展开讨论，并分享我的专业知识和经验。请随意提问，我会尽力回答。如果您对其他方面有兴趣，也欢迎告诉我，我会尽力提供帮助。",
         },
+        {
+          role: "user",
+          content: userInput, // 将用户输入的消息作为对话记录中的一部分
+        },
       ],
       temperature: 1,
       maxTokens: 256,
@@ -29,8 +33,10 @@ async function generateChat() {
       presencePenalty: 0,
     });
 
-    // 在此处根据需要处理生成的文本并更新页面中的对话容器
     const chatContainer = document.getElementById("chat-container");
+
+    // 清空对话容器
+    chatContainer.innerHTML = "";
 
     // 循环遍历对话记录并添加到对话容器中
     response.choices.forEach((choice) => {
@@ -51,4 +57,18 @@ async function generateChat() {
   }
 }
 
-generateChat();
+function sendMessage() {
+  const userInput = document.getElementById("user-input").value;
+
+  // 调用 generateChat() 函数并传递用户输入的消息
+  generateChat(userInput);
+
+  // 清空输入框中的文本
+  document.getElementById("user-input").value = "";
+}
+
+// 将以下代码放置在您的 your_script.js 文件中，并确保在 HTML 中引用了该文件
+const chatContainer = document.getElementById("chat-container");
+chatContainer.innerText = ""; // 清空初始的 ChatGPT 对话记录
+
+generateChat(""); // 调用 generateChat() 函数来生成初始的 ChatGPT 对话记录
