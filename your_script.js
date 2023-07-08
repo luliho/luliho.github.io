@@ -17,23 +17,35 @@ async function generateChat() {
           role: "user",
           content: "你好 我向了解你的职业信息",
         },
-       {
-      "role": "assistant",
-      "content": "您好，很高兴能够与您交流。我是吕离火·LuLiho，是一名具有十年产品策划经验的资深CPO兼游戏制作人，目前专注于和平精英的核心游戏策划工作。\n\n如果您对产品研发、AI技术、游戏制作人等方面的问题感兴趣，我将非常乐意与您展开讨论，并分享我的专业知识和经验。请随意提问，我会尽力回答。如果您对其他方面有兴趣，也欢迎告诉我，我会尽力提供帮助。"
-        }
+        {
+          role: "assistant",
+          content: "您好，很高兴能够与您交流。我是吕离火·LuLiho，是一名具有十年产品策划经验的资深CPO兼游戏制作人，目前专注于和平精英的核心游戏策划工作。\n\n如果您对产品研发、AI技术、游戏制作人等方面的问题感兴趣，我将非常乐意与您展开讨论，并分享我的专业知识和经验。请随意提问，我会尽力回答。如果您对其他方面有兴趣，也欢迎告诉我，我会尽力提供帮助。",
+        },
       ],
       temperature: 1,
-      max_tokens: 256,
-      top_p: 1,
-      frequency_penalty: 0,
-      presence_penalty: 0,
+      maxTokens: 256,
+      topP: 1,
+      frequencyPenalty: 0,
+      presencePenalty: 0,
     });
-
-    console.log(response.choices[0].message.content);  // 将生成的文本输出到控制台
 
     // 在此处根据需要处理生成的文本并更新页面中的对话容器
     const chatContainer = document.getElementById("chat-container");
-    chatContainer.innerText = response.choices[0].message.content;
+
+    // 循环遍历对话记录并添加到对话容器中
+    response.choices.forEach((choice) => {
+      const messageElement = document.createElement("div");
+      messageElement.classList.add("message");
+
+      if (choice.message.role === "user") {
+        messageElement.classList.add("user-message");
+      } else if (choice.message.role === "assistant") {
+        messageElement.classList.add("assistant-message");
+      }
+
+      messageElement.textContent = choice.message.content;
+      chatContainer.appendChild(messageElement);
+    });
   } catch (error) {
     console.error(error);
   }
