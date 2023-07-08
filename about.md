@@ -3,7 +3,6 @@ title: About
 layout: page
 ---
 
-<img src="/assets/images/wei2.jpg" style="float: inline-start;">
 <img src="/assets/images/profile.jpg" style="float: inline-start;"> 
 <img src="/assets/images/tencent.png" style="float: inline-start;">
 
@@ -93,4 +92,4 @@ layout: page
 <br> 
 
 <h2>联系我·My WeChat</h2>
-
+<img src="/assets/images/wei2.jpg" style="float: inline-start;">
