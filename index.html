@@ -1,8 +1,3 @@
----
-layout: page
-title: Home
----
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -10,11 +5,19 @@ title: Home
 </head>
 <body>
   <!-- 在这里添加您现有的页面布局 -->
-  
-  <div id="chat-container">
-    <!-- 在这里添加 ChatGPT 对话的容器 -->
+---
+layout: page
+title: Home
+---
+
+  <div id="chat-container" style="border: 1px solid #ccc; padding: 10px; height: 300px; overflow-y: scroll;">
+    <!-- 在这里添加 ChatGPT 对话的记录 -->
   </div>
   
   <!-- 在这里添加其他页面元素或脚本 -->
+  
+  <script src="https://cdn.jsdelivr.net/npm/openai/dist/openai.js"></script>
+  <script src="your_script.js"></script>
 </body>
 </html>
+
