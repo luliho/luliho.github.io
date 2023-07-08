@@ -254,6 +254,7 @@ label {
 }
 .owl-carousel:hover .owl-nav div{opacity: 1;visibility:visible}
 /* 2. header */
+ font-family: 'Open Sans', sans-serif;
 .header-fixed {
   left: 0;
   position: absolute;
@@ -1001,11 +1002,9 @@ margin-bottom: 10px;
 }
 /* 8. blog */
 
-body {
   font-family: 'Open Sans', sans-serif;
   font-weight: normal;
   font-style: normal;
-}
 
 .post {
 	font-family: 'Open Sans', sans-serif;
@@ -1507,6 +1506,11 @@ width: 35px;}
   height: 47px;
 }
 /* 13. about */
+
+  font-family: 'Open Sans', sans-serif;
+  font-weight: normal;
+  font-style: normal;
+
 .about-text > h5 {
   font-size: 22px;
   font-weight: 500;
