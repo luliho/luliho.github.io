@@ -8,7 +8,7 @@ layout: page
 
 <br> 
 
-<h2>吕离火2·LuLiho
+<h2>吕离火·LuLiho
 <br>首席产品官·CPO
 <br>游戏制作人·Creative Director</h2> 
 
