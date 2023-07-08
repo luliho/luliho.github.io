@@ -1,9 +1,6 @@
 ---
 title: About
 layout: page
----
-
-<img src="/assets/images/wei2.jpg" style="float: inline-start;">
 
   <!-- All CSS Files Here -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -16,7 +13,9 @@ layout: page
     <link rel="stylesheet" href="css/responsive.css">
 
 
+---
 
+<img src="/assets/images/wei2.jpg" style="float: inline-start;">
 <img src="/assets/images/profile.jpg" style="float: inline-start;"> 
 <img src="/assets/images/tencent.png" style="float: inline-start;">
 
