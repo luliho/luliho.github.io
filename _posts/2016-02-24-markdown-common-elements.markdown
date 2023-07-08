@@ -6,8 +6,9 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag:
 - game
-- Find the Difference
-star: true
+- 
+- find the difference
+star: false
 category: blog
 author: johndoe
 description: Markdown summary with different options
