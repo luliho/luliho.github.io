@@ -3,6 +3,20 @@ title: About
 layout: page
 ---
 
+<img src="/assets/images/wei2.jpg" style="float: inline-start;">
+
+  <!-- All CSS Files Here -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/et-line-fonts.css">
+    <link rel="stylesheet" href="css/ionicons.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.css">
+    <link rel="stylesheet" href="css/meanmenu.css">
+    <link rel="stylesheet" href="css/global.css">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/responsive.css">
+
+
+
 <img src="/assets/images/profile.jpg" style="float: inline-start;"> 
 <img src="/assets/images/tencent.png" style="float: inline-start;">
 
@@ -93,14 +107,3 @@ layout: page
 
 <h2>联系我·My WeChat</h2>
 
-<img src="/assets/images/wei2.jpg" style="float: inline-start;">
-
-  <!-- All CSS Files Here -->
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/et-line-fonts.css">
-    <link rel="stylesheet" href="css/ionicons.min.css">
-    <link rel="stylesheet" href="css/magnific-popup.css">
-    <link rel="stylesheet" href="css/meanmenu.css">
-    <link rel="stylesheet" href="css/global.css">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="css/responsive.css">
