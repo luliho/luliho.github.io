@@ -13,7 +13,6 @@ author: jamesfoster
 description: Markdown summary with different options
 ---
 
-
 ## 【机核GCORES | Booom创作】
 <img src="/assets/images/gamejam0101.jpg" style="float: inline-start;">
 <img src="/assets/images/gamejam0104.jpg" style="float: inline-start;">
@@ -31,3 +30,5 @@ description: Markdown summary with different options
 
 版权声明：本文为「吕离火·luliho」的原创文章，遵循CC 4.0 BY-SA版权协议。
 <br>*Creative Commons Attribution 4.0 International (CC-BY-4.0)
+
+
