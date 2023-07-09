@@ -3,7 +3,7 @@ title: About
 layout: page
 ---
 
-<img src="/assets/images/profile.jpg" style="float: inline-start;"> 
+<img src="/assets/images/profile2.jpg" style="float: inline-start;"> 
 <img src="/assets/images/tencent.png" style="float: inline-start;">
 
 <br> 
