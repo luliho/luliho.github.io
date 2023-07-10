@@ -26,13 +26,13 @@ layout: page
 
 <h2>AI Agent探索·AI for Games</h2>
 
-<p>【真格基金 | AI Game Jam】《CATVENTURE》制作人：
+<p>【真格基金 AI Game Jam | CATVENTURE 】制作人：
 <br>-三等奖
 <br>-LLM×Gameplay
 <br>-AI prompt flow
 <br>-AI Long Term Memory</p>
 
-<p>【机核GCORES | Booom创作】《REBOOT》制作人：
+<p>【机核GCORES9 Booom创作 | REBOOT】制作人：
 <br>-LLM×AI NPC
 <br>-AI prompt tree</p>
 
