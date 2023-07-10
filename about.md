@@ -26,7 +26,7 @@ layout: page
 
 <h2>AI Agent探索·AI for Games</h2>
 
-<p>【真格基金 | AI Game Jam】《CATVATURE》制作人：
+<p>【真格基金 | AI Game Jam】《CATVENTURE》制作人：
 <br>-三等奖
 <br>-LLM×Gameplay
 <br>-AI prompt flow
