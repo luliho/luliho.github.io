@@ -26,16 +26,19 @@ layout: page
 
 <h2>AI Agent探索·AI for Games</h2>
 
-<p>【真格基金 | AI Game Jam】制作人：
-<br>-获三等奖
-<br>-尝试将LLM引入核心Gameplay
-<br>-用拆解prompt的逻辑，解决了AI long term memory较弱问题</p>
+<p>【真格基金 | AI Game Jam】《CATVATURE》制作人：
+<br>-三等奖
+<br>-LLM×Gameplay
+<br>-AI prompt flow
+<br>-AI Long Term Memory</p>
 
-<p>【机核GCORES | Booom创作】制作人：
-<br>-自然语言控制npc的prompt逻辑探索和迭代</p>
+<p>【机核GCORES | Booom创作】《REBOOT》制作人：
+<br>-LLM×AI NPC
+<br>-AI prompt tree</p>
 
 <p>【AI生态产品模型设计】CPO·首席产品官：
-<br>-正在撰写相关文献，筹备相关专利申请</p>
+<br>-撰写相关文献
+<br>-专利申请</p>
 
 <img src="/assets/images/zhenge.jpg" style="float: inline-start;">
 
@@ -50,7 +53,7 @@ layout: page
 <br>-建设项目基站</p>
 
 <p>【腾讯天美 | 黎明行动】
-<br>-通过优化研发流程大幅提升了游戏品质</p>
+<br>-主导生产流程优化</p>
 
 <p>【腾讯天美 | 侍魂·剑心物语】
 <br>-与海外团队跨国协作</p>
