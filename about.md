@@ -14,7 +14,7 @@ layout: page
 
 <br> 
 
-<h2>Awards</h2>
+<h2>阶梯·Awards</h2>
 
 <p>TIMI STAR
 <br>华表奖、金鸡奖等
