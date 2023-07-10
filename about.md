@@ -28,14 +28,14 @@ layout: page
 
 <p>【真格基金 | AI Game Jam】制作人：
 <br>-获三等奖
-<br>-LLM引入核心Gameplay
-<br>-初步解决AI long term memory较弱问题</p>
+<br>-尝试将LLM引入核心Gameplay
+<br>-用拆解prompt的逻辑，解决了AI long term memory较弱问题</p>
 
 <p>【机核GCORES | Booom创作】制作人：
 <br>-自然语言控制npc的prompt逻辑探索和迭代</p>
 
 <p>【AI生态产品模型设计】CPO·首席产品官：
-<br>-正在撰写相关文献，筹备专利申请</p>
+<br>-正在撰写相关文献，筹备相关专利申请</p>
 
 <img src="/assets/images/zhenge.jpg" style="float: inline-start;">
 
@@ -49,11 +49,11 @@ layout: page
 <p>【腾讯光子 | 华夏·启源】核心产品策划：
 <br>-建设项目基站</p>
 
-<p>【腾讯天美 | 黎明行动】深度参与全流程研发：
-<br>-优化研发流程</p>
+<p>【腾讯天美 | 黎明行动】核心游戏策划：
+<br>-通过优化研发流程大幅提升了游戏品质</p>
 
 <p>【腾讯天美 | 侍魂·剑心物语】世界观策划：
-<br>-跨国协作对接海外团队</p>
+<br>-与海外团队跨国协作</p>
 
 <br> 
 
