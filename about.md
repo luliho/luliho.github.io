@@ -67,7 +67,7 @@ layout: page
 <br>-Unity
 <br>-3ds Max
 <br>-Articy draft
-<br>-Pycharm
+<br>-Deeplearning
 <br>-Python
 <br>-Eleme</p>
 
