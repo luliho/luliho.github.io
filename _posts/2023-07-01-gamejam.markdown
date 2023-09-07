@@ -1,5 +1,5 @@
 ---
-title: "记录一些GameJam企划案"
+title: "记录一些GameJam手稿"
 layout: post
 date: 2023-07-01 20:08
 image: /assets/images/markdown.jpg
@@ -21,7 +21,7 @@ description: Markdown summary with different options
 ## 【真格基金 | AI Game Jam】
 <img src="/assets/images/gamejam0201.jpg" style="float: inline-start;">
 
-## 【 HUGGING FACE | Open Source AI Game Jam】
+## 【HUGGING FACE | Open Source AI Game Jam】
 <img src="/assets/images/gamejam0301.jpg" style="float: inline-start;">
 <img src="/assets/images/gamejam0302.jpg" style="float: inline-start;">
 <img src="/assets/images/gamejam0303.jpg" style="float: inline-start;">
