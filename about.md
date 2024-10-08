@@ -2,8 +2,15 @@
 title: About
 layout: page
 ---
+<br> 
 
 <img src="/assets/images/profile2.png" style="float: inline-start;"> 
+
+<br> 
+
+
+<br>
+
 <img src="/assets/images/tencent.png" style="float: inline-start;">
 
 <br> 
@@ -20,7 +27,11 @@ layout: page
 <br>华表奖、金鸡奖等
 <br>金摇杆等</p>
 
+<br> 
+
 <img src="/assets/images/jiang.png" style="float: inline-start;">
+
+<br> 
 
 <br> 
 
@@ -40,7 +51,11 @@ layout: page
 <br>-撰写相关文献
 <br>-专利申请</p>
 
+<br> 
+
 <img src="/assets/images/zhenge.jpg" style="float: inline-start;">
+
+<br> 
 
 <br> 
 
