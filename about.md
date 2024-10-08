@@ -2,18 +2,15 @@
 title: About
 layout: page
 ---
-<br> 
-
-<img src="/assets/images/profile2.png" style="float: inline-start;"> 
-
-<br> 
-
 
 <br>
+<img src="/assets/images/profile2.png" style="float: inline-start;"> 
+<br />
 
-<img src="/assets/images/tencent.png" style="float: inline-start;">
 
 <br> 
+<img src="/assets/images/tencent.png" style="float: inline-start;">
+<br /> 
 
 <h2>吕离火·LULIHO
 <br>首席产品官·CPO
