@@ -5,17 +5,10 @@ layout: page
 
 <html>
   
-<img src="/assets/images/profile2.png" style="float: inline-start;"> 
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<p><img src="/assets/images/tencent.png" style="float: inline-start;"></p>
+<img src="/assets/images/profile2.png" alt="Image 1" style="display: block" />
+<img src="/assets/images/tencent.png" alt="Image 1" style="display: block" />
 
-<h2>吕离火·LULIHO5
+<h2>吕离火·LULIHO
 <br>首席产品官·CPO
 <br>游戏制作人·Creative Director</h2> 
 
@@ -53,9 +46,7 @@ layout: page
 
 <br> 
 
-<img src="/assets/images/zhenge.jpg" style="float: inline-start;">
-
-<br> 
+<img src="/assets/images/zhenge.jpg" alt="Image 1" style="display: block" />
 
 <br> 
 
@@ -77,7 +68,6 @@ layout: page
 
 <h2>技能·Skills</h2>
 
-
 <p>-Unreal Engine
 <br>-Unity
 <br>-3ds Max
@@ -86,13 +76,11 @@ layout: page
 <br>-Python
 <br>-Eleme</p>
 
-
-  
-<img src="/assets/images/skill.png" style="float: inline-start;">
+<img src="/assets/images/skill.png" alt="Image 1" style="display: block" />
 
 <br> 
 
 <h2>联系我·My WeChat</h2>
-<img src="/assets/images/wei2.jpg" style="float: inline-start;">
+<img src="/assets/images/wei2.jpg" alt="Image 1" style="display: block" />
 
 </html>
