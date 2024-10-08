@@ -5,7 +5,7 @@ layout: page
 
 <html>
   
-</p><img src="/assets/images/profile2.png" style="float: inline-start;"> <br/><img src="/assets/images/tencent.png" style="float: inline-start;"></p>
+<p><img src="/assets/images/profile2.png" style="float: inline-start;"> <br/><img src="/assets/images/tencent.png" style="float: inline-start;"></p>
 
 <h2>吕离火·LULIHO2
 <br>首席产品官·CPO
