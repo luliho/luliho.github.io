@@ -7,7 +7,7 @@ layout: page
   
 <p><img src="/assets/images/profile2.png" style="float: inline-start;"> <br/><img src="/assets/images/tencent.png" style="float: inline-start;"></p>
 
-<h2>吕离火·LULIHO2
+<h2>吕离火·LULIHO3
 <br>首席产品官·CPO
 <br>游戏制作人·Creative Director</h2> 
 
