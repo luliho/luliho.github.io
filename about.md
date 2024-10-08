@@ -5,15 +5,23 @@ layout: page
 
 <html>
   
-<p><img src="/assets/images/profile2.png" style="float: inline-start;"> <br/><img src="/assets/images/tencent.png" style="float: inline-start;"></p>
+<img src="/assets/images/profile2.png" style="float: inline-start;"> 
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<p><img src="/assets/images/tencent.png" style="float: inline-start;"></p>
 
-<h2>吕离火·LULIHO3
+<h2>吕离火·LULIHO
 <br>首席产品官·CPO
 <br>游戏制作人·Creative Director</h2> 
 
 <br> 
 
-<h2>阶梯·Awards</h2>
+<h2>阶梯4·Awards</h2>
 
 <p>TIMI STAR
 <br>华表奖、金鸡奖等
@@ -21,7 +29,7 @@ layout: page
 
 <br> 
 
-<img src="/assets/images/jiang.png" style="float: inline-start;">
+<p><img src="/assets/images/jiang.png" style="float: inline-start;"></p>
 
 <br> 
 
