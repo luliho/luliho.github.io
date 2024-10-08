@@ -29,8 +29,6 @@ layout: page
 
 <br> 
 
-<img src="/assets/images/jiang.png" style="float: inline-start;">
-
 <img src="/assets/images/jiang.png" alt="Image 1" style="display: block" />
 
 <br> 
