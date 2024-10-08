@@ -3,14 +3,14 @@ title: About
 layout: page
 ---
 
-<br>
+<p>
 <img src="/assets/images/profile2.png" style="float: inline-start;"> 
-<br />
+</p>
 
 
-<br> 
+<p>
 <img src="/assets/images/tencent.png" style="float: inline-start;">
-<br /> 
+</p>
 
 <h2>吕离火·LULIHO6
 <br>首席产品官·CPO
