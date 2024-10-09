@@ -8,7 +8,7 @@ layout: page
 <img src="/assets/images/profile2.png" alt="Image 1" style="display: block" />
 <img src="/assets/images/tencent.png" alt="Image 1" style="display: block" />
 
-<h2>吕离火·LULIHO
+<h2>吕离火·LULIHO1
 <br>首席产品官·CPO
 <br>游戏制作人·Creative Director</h2> 
 
@@ -22,7 +22,7 @@ layout: page
 
 <br> 
 
-<img src="/assets/images/jiang.png" alt="Image 1" style="display: block" />
+ <!--<img src="/assets/images/jiang.png" alt="Image 1" style="display: block" />-->
 
 <br> 
 
@@ -30,7 +30,7 @@ layout: page
 
 <h2>AI Agent探索·AI for Games</h2>
 
-<p>【真格基金 AI Game Jam | CATVENTURE 】制作人：
+<p>【AI Game Jam | CATVENTURE 】制作人：
 <br>-三等奖
 <br>-LLM×Gameplay
 <br>-AI prompt flow
