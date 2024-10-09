@@ -8,7 +8,7 @@ layout: page
 <img src="/assets/images/profile2.png" alt="Image 1" style="display: block" />
 <img src="/assets/images/tencent.png" alt="Image 1" style="display: block" />
 
-<h2>吕离火·LULIHO1
+<h2>吕离火·LULIHO
 <br>首席产品官·CPO
 <br>游戏制作人·Creative Director</h2> 
 
@@ -24,9 +24,6 @@ layout: page
 
  <!--<img src="/assets/images/jiang.png" alt="Image 1" style="display: block" />-->
 
-<br> 
-
-<br> 
 
 <h2>AI Agent探索·AI for Games</h2>
 
@@ -48,7 +45,6 @@ layout: page
 
 <!--<img src="/assets/images/zhenge.jpg" alt="Image 1" style="display: block" />-->
 
-<br> 
 
 <h2>腾讯五年·In Tencent</h2>
 
