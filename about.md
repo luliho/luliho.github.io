@@ -46,7 +46,7 @@ layout: page
 
 <br> 
 
-<img src="/assets/images/zhenge.jpg" alt="Image 1" style="display: block" />
+<!--<img src="/assets/images/zhenge.jpg" alt="Image 1" style="display: block" />-->
 
 <br> 
 
